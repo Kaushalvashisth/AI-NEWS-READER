@@ -3,15 +3,17 @@ import { makeStyles } from '@material-ui/core/styles';
 export default makeStyles((theme) => ({
   footer: {
     textAlign: 'center',
-    position: 'fixed',
+    position: 'relative',
     left: 0,
     bottom: 0,
-    color: 'black',
+    color: '#000080',
+    opacity:0.5,
+    letterSpacing:'2px',
     width: '100%',
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    height: '120px',
+    height: '50px',
     [theme.breakpoints.down('sm')]: {
       display: 'none',
     },
@@ -51,10 +53,11 @@ export default makeStyles((theme) => ({
     justifyContent: 'space-around',
     [theme.breakpoints.down('sm')]: {
       flexDirection: 'column',
+      display:'none',
     },
   },
   logo: {
-    padding: '5% 5%',
+    padding: '1% 5%',
     display: 'flex',
     justifyContent: 'space-around',
     alignItems: 'center',
@@ -65,12 +68,9 @@ export default makeStyles((theme) => ({
     },
   },
   Logo: {
-    height: '27vmin',
-    borderRadius: '15%',
-    padding: '0 5%',
-    margin: '5% 0',
+    height: '15vmin',
     [theme.breakpoints.down('sm')]: {
-      height: '35vmin',
+      height: '12vmin',
     },
   },
 }));
