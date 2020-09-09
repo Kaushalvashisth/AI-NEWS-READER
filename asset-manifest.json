@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AI-NEWS-READER/static/css/main.8ff82754.chunk.css",
+    "main.js": "/AI-NEWS-READER/static/js/main.2d7660e0.chunk.js",
+    "main.js.map": "/AI-NEWS-READER/static/js/main.2d7660e0.chunk.js.map",
+    "runtime-main.js": "/AI-NEWS-READER/static/js/runtime-main.f9b4403f.js",
+    "runtime-main.js.map": "/AI-NEWS-READER/static/js/runtime-main.f9b4403f.js.map",
+    "static/js/2.f390fee0.chunk.js": "/AI-NEWS-READER/static/js/2.f390fee0.chunk.js",
+    "static/js/2.f390fee0.chunk.js.map": "/AI-NEWS-READER/static/js/2.f390fee0.chunk.js.map",
+    "index.html": "/AI-NEWS-READER/index.html",
+    "precache-manifest.e206e34c8b4ca47fdbe6f972d9bd0859.js": "/AI-NEWS-READER/precache-manifest.e206e34c8b4ca47fdbe6f972d9bd0859.js",
+    "service-worker.js": "/AI-NEWS-READER/service-worker.js",
+    "static/css/main.8ff82754.chunk.css.map": "/AI-NEWS-READER/static/css/main.8ff82754.chunk.css.map",
+    "static/js/2.f390fee0.chunk.js.LICENSE.txt": "/AI-NEWS-READER/static/js/2.f390fee0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b4403f.js",
+    "static/js/2.f390fee0.chunk.js",
+    "static/css/main.8ff82754.chunk.css",
+    "static/js/main.2d7660e0.chunk.js"
+  ]
+}
